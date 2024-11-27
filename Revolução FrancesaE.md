@@ -1,10 +1,8 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Natural ou Fake Natty? O impacto da revolução francesa na atualidade.
 
-## 🚀 Introdução
 
-> Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -19,33 +17,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Revolução Francesa
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Apresentar de forma resumida o impacto da Revolução francesa na atualidade.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei o ChatGPT.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Obtenção de conteúdo no ChatGPT.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O Conteúdo pode ser acessado em:(https://chatgpt.com/share/67467091-213c-800c-a2d4-dde467a3dd9e)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Por está iniciado no ChatGPT, procurei fazer algo bem simples, na pespectiva de em breve ter mais habilidades com essa ferramenta. 
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
